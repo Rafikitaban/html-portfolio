@@ -1,0 +1,25 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+    background-color: wheat;
+    ;
+}
+
+.container{
+    text-align: center;     
+}
+h1{
+    color:black;
+}
+
+h2, h3 { 
+    color: blue;
+
+}
+
+body{
+    margin-left: 10px;
+}
+
